@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_TEST", "01_TEST\01_TEST.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_变量与常亮", "01_变量与常亮\01_变量与常亮.csproj", "{D54FD12B-98C8-4847-9882-6F6FBD2C7049}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_计算圆的面积和周长", "02_计算圆的面积和周长\02_计算圆的面积和周长.csproj", "{4658B61F-FFDE-4072-994E-F6B61E58655B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D54FD12B-98C8-4847-9882-6F6FBD2C7049}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D54FD12B-98C8-4847-9882-6F6FBD2C7049}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D54FD12B-98C8-4847-9882-6F6FBD2C7049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4658B61F-FFDE-4072-994E-F6B61E58655B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4658B61F-FFDE-4072-994E-F6B61E58655B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4658B61F-FFDE-4072-994E-F6B61E58655B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4658B61F-FFDE-4072-994E-F6B61E58655B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
