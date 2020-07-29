@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_变量与常亮", "01_�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_计算圆的面积和周长", "02_计算圆的面积和周长\02_计算圆的面积和周长.csproj", "{4658B61F-FFDE-4072-994E-F6B61E58655B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_计算TShirt价格", "03_计算TShirt价格\03_计算TShirt价格.csproj", "{1622393C-70B8-47D3-84A4-E9CA1380391E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_加加混合计算", "04_加加混合计算\04_加加混合计算.csproj", "{B8B2A997-CDC9-4868-AFA8-F8C0C9F3B8E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{4658B61F-FFDE-4072-994E-F6B61E58655B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4658B61F-FFDE-4072-994E-F6B61E58655B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4658B61F-FFDE-4072-994E-F6B61E58655B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1622393C-70B8-47D3-84A4-E9CA1380391E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1622393C-70B8-47D3-84A4-E9CA1380391E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1622393C-70B8-47D3-84A4-E9CA1380391E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1622393C-70B8-47D3-84A4-E9CA1380391E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B2A997-CDC9-4868-AFA8-F8C0C9F3B8E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B2A997-CDC9-4868-AFA8-F8C0C9F3B8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B2A997-CDC9-4868-AFA8-F8C0C9F3B8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B2A997-CDC9-4868-AFA8-F8C0C9F3B8E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
