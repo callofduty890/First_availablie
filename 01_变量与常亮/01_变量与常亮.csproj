@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A63E2684-3308-4D14-AF48-364C924F0BC1}</ProjectGuid>
+    <ProjectGuid>{D54FD12B-98C8-4847-9882-6F6FBD2C7049}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>第二天_代码</RootNamespace>
-    <AssemblyName>第二天_代码</AssemblyName>
+    <RootNamespace>_01_变量与常亮</RootNamespace>
+    <AssemblyName>01_变量与常亮</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,12 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\01_TEST\01_TEST.csproj">
-      <Project>{55ab656b-8f2c-425d-83b6-d3e9059fd0cb}</Project>
-      <Name>01_TEST</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
